@@ -1,0 +1,34 @@
+{
+  "hotel_name": "Sunrise Grand Hotel",
+  "address": "123 Beachside Avenue, Goa, India",
+  "contact": {
+    "phone": "+91-9876543210",
+    "email": "info@sunrisegrand.com"
+  },
+  "check_in": "2:00 PM",
+  "check_out": "11:00 AM",
+  "amenities": [
+    "Free Wi-Fi",
+    "Swimming Pool",
+    "Spa and Wellness Center",
+    "Gym",
+    "24/7 Room Service",
+    "Airport Shuttle"
+  ],
+  "room_types": {
+    "Standard": "1 Queen bed, A/C, Balcony, City view",
+    "Deluxe": "1 King bed, Sea view, Bathtub, Mini-bar",
+    "Suite": "2 Rooms, Living area, Sea view, Butler service"
+  },
+  "policies": {
+    "cancellation": "Free cancellation up to 24 hours before check-in.",
+    "pets": "Pets are not allowed.",
+    "payment": "We accept credit/debit cards, UPI, and cash."
+  },
+  "restaurant": {
+    "name": "Azure Bay Restaurant",
+    "timings": "7:00 AM – 11:00 PM",
+    "cuisine": ["Indian", "Continental", "Chinese"],
+    "room_service": "Available 24/7"
+  }
+}

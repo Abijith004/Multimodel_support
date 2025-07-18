@@ -1,0 +1,8 @@
+flask
+werkzeug
+python-dotenv
+openai
+torch
+transformers
+Pillow
+googletrans==4.0.0-rc1
