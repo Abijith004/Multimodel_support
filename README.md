@@ -1,6 +1,6 @@
-🏨 Multilingual Hotel Concierge Chatbot with Image Support
+🏨 Multilingual Hotel Concierge Chatbot with Image and csv Support with login credentials
 ________________________________________________________________________________________________________________________________________________________________________________________
-This project is a Flask-based hotel concierge chatbot powered by OpenAI and Google Translate. It allows users to interact in any language and optionally upload images (e.g., signs, room service menus) for context. The chatbot replies intelligently using a custom knowledge base and AI.
+This project is a Flask-based hotel concierge chatbot powered by OpenAI and Google Translate. It allows users to interact in any language and optionally upload images and csv files (e.g., signs, room service menus) for context. The chatbot replies intelligently using a custom knowledge base and AI.
 _________________________________________________________________________________________________________________________________________________________________________________________
 🚀 Features
 
