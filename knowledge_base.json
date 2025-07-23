@@ -1,34 +1,47 @@
 {
-  "hotel_name": "Sunrise Grand Hotel",
-  "address": "123 Beachside Avenue, Goa, India",
+  "hotel_name": "Grand Paradise Resort",
+  "address": "123 Ocean View, Malibu, CA",
   "contact": {
-    "phone": "+91-9876543210",
-    "email": "info@sunrisegrand.com"
+    "phone": "+1 (555) 123-4567",
+    "email": "info@grandparadise.com"
   },
-  "check_in": "2:00 PM",
-  "check_out": "11:00 AM",
+  "check_in_time": "3:00 PM",
+  "check_out_time": "11:00 AM",
   "amenities": [
     "Free Wi-Fi",
-    "Swimming Pool",
-    "Spa and Wellness Center",
-    "Gym",
-    "24/7 Room Service",
+    "Outdoor Pool",
+    "Spa & Wellness Center",
+    "Fitness Center",
+    "Restaurant & Bar",
+    "Room Service",
     "Airport Shuttle"
   ],
-  "room_types": {
-    "Standard": "1 Queen bed, A/C, Balcony, City view",
-    "Deluxe": "1 King bed, Sea view, Bathtub, Mini-bar",
-    "Suite": "2 Rooms, Living area, Sea view, Butler service"
-  },
+  "room_types": [
+    {
+      "name": "Deluxe Suite",
+      "price_per_night": "$250",
+      "description": "Spacious suite with ocean view, king bed, balcony, and Jacuzzi."
+    },
+    {
+      "name": "Standard Room",
+      "price_per_night": "$120",
+      "description": "Comfortable room with queen bed and city view."
+    },
+    {
+      "name": "Family Room",
+      "price_per_night": "$180",
+      "description": "Large room with 2 double beds, ideal for families."
+    }
+  ],
   "policies": {
     "cancellation": "Free cancellation up to 24 hours before check-in.",
     "pets": "Pets are not allowed.",
-    "payment": "We accept credit/debit cards, UPI, and cash."
+    "smoking": "Smoking is not allowed in rooms."
   },
-  "restaurant": {
-    "name": "Azure Bay Restaurant",
-    "timings": "7:00 AM – 11:00 PM",
-    "cuisine": ["Indian", "Continental", "Chinese"],
-    "room_service": "Available 24/7"
+  "frequently_asked_questions": {
+    "Do you have free parking?": "Yes, we offer complimentary parking for all guests.",
+    "Is breakfast included?": "Breakfast is included with Deluxe and Family Rooms. For Standard Rooms, it's available at an extra charge.",
+    "Do you allow early check-in?": "Early check-in is subject to availability and may incur an additional fee.",
+    "Is there a laundry service?": "Yes, we offer same-day laundry and dry-cleaning services."
   }
 }
