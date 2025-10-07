@@ -10,5 +10,5 @@ pytesseract
 python-multipart
 gunicorn
 requests
-sqlite3-binary
+
 
