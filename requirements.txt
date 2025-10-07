@@ -5,11 +5,12 @@ openai
 torch
 transformers
 Pillow
-deep-translator
+googletrans==4.0.0-rc1
 pytesseract
 python-multipart
 gunicorn
 requests
+
 
 
 
