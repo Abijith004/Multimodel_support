@@ -10,7 +10,8 @@ pytesseract
 python-multipart
 gunicorn
 requests
-pip>=21.0--upgrade pip
+pip install --upgrade pip
+
 
 
 
